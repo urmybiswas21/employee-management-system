@@ -1,0 +1,16 @@
+# Node (React)
+node_modules/
+dist/
+build/
+
+# .NET
+bin/
+obj/
+.vs/
+
+# Secrets
+appsettings.Development.json
+.env
+
+# OS files
+.DS_Store
