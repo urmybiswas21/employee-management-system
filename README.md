@@ -48,15 +48,15 @@ EmployeeManagementSystem/
 ## Setup Instructions
 
 ### Backend
-1. Navigate to backend folder:
-2. Update database connection string in:
+1. Navigate to backend folder: cd EmployeeManagement.Api
+2. Update database connection string in: appsettings.json
 3. Run the API: dotnet run
 
 
 ---
 
 ### Frontend
-1. Navigate to frontend folder:
+1. Navigate to frontend folder: cd employee-management-ui
 2. Install dependencies: npm install
 3. Start the application: npm run dev
 
